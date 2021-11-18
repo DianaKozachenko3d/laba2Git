@@ -12,4 +12,4 @@ int main(int argc, char *argv[])
     return a.exec();
 }
 
-string str = "Hello, cats!";
+int str = 8;
